@@ -1,6 +1,6 @@
-# About Me:
-
 ### <div align="center">👋 Hi, I'm Duy, a student at Can Tho University, majoring in Software Engineering (2021-2025) 👋</div>
+
+# About Me:
 
 - 🦖 I am a **Front-End Developer**, passionate about **user-friendly, high-performance, and building scalable web applications**.
 
@@ -21,6 +21,4 @@
 </a>
 
 </div>
-
 ---
-# hnd24
