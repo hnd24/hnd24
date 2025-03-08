@@ -1,6 +1,6 @@
-### <div align="center">👋 Hi, I'm Duy, a student at Can Tho University, majoring in Software Engineering (2021-2025) 👋</div>
+### <h3 align="center">👋 Hi, I'm Duy, a student at Can Tho University, majoring in Software Engineering (2021-2025) 👋</h3>
 
-## About Me:
+## About me (😎)
 
 - 🦖 I am a **Front-End Developer**, passionate about **user-friendly, high-performance, and building scalable web applications**.
 
@@ -12,7 +12,7 @@
 
 - 🌏 Currently looking for a **Fresher/Intern Front-End Developer role** to contribute to impactful projects and collaborate with great teams.
 
-## Connect with me
+<h2>Contact with me 👉👈 </h2>
 
 <div align="center">
 
@@ -23,20 +23,19 @@
 </div>
 ---
 
-## 🛠 **Tech Stack**
+## **Tech Stack** 🥷
 
 <div width="100%">
 
 <div align="center">
-  &nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueWhale1202&show_icons=true&locale=en&layout=compact&theme=onedark" height="165" width="300">
-  &nbsp;&nbsp;<img src="./javascript.jpg" height="165" width="300">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hnd24&show_icons=true&locale=en&layout=compact&theme=onedark" height="165" width="300">
 </div>
 
 <br />
 <table>
 <tr>
 <th>🎨 Front-End</th>
-<th>💾 Back-End & Databases</th>
+<th>🛢️ Back-End & Databases</th>
 <th>⚙️ DevOps & Tools</th>
 </tr>
 
@@ -53,7 +52,7 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/Express.js-%234CAF50.svg?&style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/-Convex-000000?logo=convex&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Convex-FF6000?logo=convex&logoColor=white&style=for-the-badge"/>
 </td>
 
 <td align="center">
