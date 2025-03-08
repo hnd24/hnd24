@@ -2,15 +2,17 @@
 
 ## About me (😎)
 
-- 🦖 I am a **Front-End Developer**, passionate about **user-friendly, high-performance, and building scalable web applications**.
+- 🦖 A **Front-End Developer** with a passion for building **high-performance, scalable**, and **user-friendly web applications**.
 
-- 👀 I specialize in **React.js, Next.js, TypeScript**, and modern UI/UX frameworks like **TailwindCSS, Shadcn UI**.
+- 🎯 Specializing in **React, Next.js 15, TypeScript**, and modern UI/UX frameworks like **TailwindCSS, Shadcn UI**, creating sleek and responsive designs.
 
-- 🤖 I have built **full-stack projects**, focusing on performance, real-time collaboration, and modern authentication.
+- 🔥 Experienced in developing **full-stack applications**, optimizing **performance**, **real-time collaboration**, and **secure authentication**.
 
 - 😸 I have experience working with **Express.js** and databases like **MongoDB, Convex**.
 
-- 🌏 Currently looking for a **Fresher/Intern Front-End Developer role** to contribute to impactful projects and collaborate with great teams.
+- 🌍 Actively seeking **a Fresher/Intern Front-End Developer role** to contribute to impactful projects and collaborate with greats teams.
+
+💡 **Let's build something amazing together!** 🚀
 
 <h2>Contact with me 👉👈 </h2>
 
