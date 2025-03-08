@@ -25,7 +25,7 @@
 </div>
 ---
 
-## **Tech Stack** 🥷
+## **Tech Stack** 🚀🚀🚀
 
 <div width="100%">
 
